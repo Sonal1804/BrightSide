@@ -1,0 +1,163 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scene/frontpage.unity
+    guid: e801a8fb0ea365c439b238226bc84e58
+  - enabled: 1
+    path: Assets/Scene/mainpage.unity
+    guid: 388982249fb34634cb3e8e51edb43438
+  - enabled: 1
+    path: Assets/Scene/secondpage.unity
+    guid: ebae07402599abe42bfbd54663aa87b2
+  - enabled: 1
+    path: Assets/Scene/animalDragandDrop.unity
+    guid: 3ee4df3f01a988a4781e5e3039c4ddfb
+  - enabled: 1
+    path: Assets/Scene/birdDragAndDrop.unity
+    guid: e9b2e3b9b99b3d84fb039fbb8fd14772
+  - enabled: 1
+    path: Assets/Scene/faceDragAndDrop.unity
+    guid: c9f30e395107f7b4c9e33c2b60a3643b
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scene/swipe.unity
+    guid: 920efe6086032f24893cfef090a0f74d
+  - enabled: 1
+    path: Assets/Scene/videos scene/blackship.unity
+    guid: f12093eeac94ede42a5f1a6edd2f8a9d
+  - enabled: 0
+    path: 
+    guid: 73b5f56b2c8a5ff47987b0e989b46f95
+  - enabled: 0
+    path: 
+    guid: 224ccf808911b3a4da2ce109a165b178
+  - enabled: 1
+    path: Assets/Scene/videos scene/fivelittleducks.unity
+    guid: 9a52ada64ca48f2478e18f4ed72b02d4
+  - enabled: 1
+    path: Assets/Scene/videos scene/fivelittlemonkeys.unity
+    guid: c3b752b4ccd8fc74d9b80eeb77c06ced
+  - enabled: 0
+    path: 
+    guid: 616d3c8441c04d84082ea0b3afc60e9e
+  - enabled: 0
+    path: 
+    guid: 9c170d89b20226e41afcc29abb6d6b71
+  - enabled: 0
+    path: 
+    guid: bde77e53042565346b756ccce0a1c21b
+  - enabled: 0
+    path: 
+    guid: 553f8460537c2004ab09a0621ff735f0
+  - enabled: 0
+    path: 
+    guid: 4815c0316d4c22e4cb6f32741fc9aa59
+  - enabled: 0
+    path: 
+    guid: a1d32c9e0110c114d927161281abe25c
+  - enabled: 0
+    path: 
+    guid: b6d4926d85e580345ac9b23f3f99e8e6
+  - enabled: 1
+    path: Assets/Scene/videos scene/jhonyjhony.unity
+    guid: e7e3650bddf5ef043ba18d30e6371b03
+  - enabled: 0
+    path: 
+    guid: cbb6663f7479f774fabd625ad497e621
+  - enabled: 0
+    path: 
+    guid: f3c5711e55d67f64c8032128ca40d0fa
+  - enabled: 1
+    path: Assets/Scene/poempage.unity
+    guid: be783f211b258bf408c7eef3f3a3d07c
+  - enabled: 0
+    path: 
+    guid: 510303da8206f154ea0101d0ce23819b
+  - enabled: 0
+    path: 
+    guid: 47bc8a5b1b8f49743a14a962d0793cd5
+  - enabled: 1
+    path: Assets/Scene/videos scene/rainrain.unity
+    guid: 60c8fbabfeb9ff545aad39dd400f11cd
+  - enabled: 0
+    path: 
+    guid: 8b5a0ef4ac3556b47909f9ba01d3662d
+  - enabled: 1
+    path: Assets/Scene/videos scene/twinkle.unity
+    guid: 7da8dc066de549f4fb19d293274db262
+  - enabled: 1
+    path: Assets/Scene/yogaSwipe.unity
+    guid: 89b91cccd3bd02642a3be0f5f972158b
+  - enabled: 1
+    path: Assets/Scene/yogapage.unity
+    guid: 4f10f637707a67c45b896e556915889f
+  - enabled: 1
+    path: Assets/Scene/Yoga/1Yoga.unity
+    guid: 213bbbc127d3cec42836e0362cafb282
+  - enabled: 1
+    path: Assets/Scene/Yoga/2Yoga.unity
+    guid: 3742cc15554742247b5b7ac1364a8e8e
+  - enabled: 1
+    path: Assets/Scene/Yoga/3Yoga.unity
+    guid: 1e217d5b3e44d80418b09e722efb7100
+  - enabled: 1
+    path: Assets/Scene/Yoga/4Yoga.unity
+    guid: db3e37d86a26abd44bc7a5fc19f8f7f3
+  - enabled: 1
+    path: Assets/Scene/Yoga/5Yoga.unity
+    guid: cd22e3a0cc78ef64a867cb3091b3a177
+  - enabled: 1
+    path: Assets/Scene/Yoga/6Yoga.unity
+    guid: fb623102bc2194045839ea0dfedd1b85
+  - enabled: 1
+    path: Assets/Scene/storypage.unity
+    guid: a7041407e40aa7e4dbb4cbcfd543fbd2
+  - enabled: 1
+    path: Assets/Scene/storyswipe.unity
+    guid: 1175983b09ad2af46929eefc9171272c
+  - enabled: 1
+    path: Assets/Scene/story scene/1story.unity
+    guid: 082d7c4ea0a65c042a00fb8f8e971fe1
+  - enabled: 1
+    path: Assets/Scene/story scene/2story.unity
+    guid: b6724512f6f059344bed92eb38e9aa98
+  - enabled: 1
+    path: Assets/Scene/story scene/3story.unity
+    guid: 0d15ada6a46fb6740ac67d5875f07e25
+  - enabled: 1
+    path: Assets/Scene/story scene/4story.unity
+    guid: fc13a7a3bfa0382498992ba5ce4bad23
+  - enabled: 1
+    path: Assets/Scene/story scene/5story.unity
+    guid: 289fad717c32e98448669415561a074e
+  - enabled: 1
+    path: Assets/Scene/story scene/6story.unity
+    guid: 97edd695e3904a845a6d6690b74f7448
+  - enabled: 1
+    path: Assets/Scene/videos scene/onceicaught.unity
+    guid: 818bc0aeddeaa5a41be056daf4618b41
+  - enabled: 1
+    path: Assets/Scene/videos scene/headshoulders.unity
+    guid: 96c9dd060a6b70d4db43282a71c43a52
+  - enabled: 1
+    path: Assets/Scene/story scene/7story.unity
+    guid: 40447a3759625fd4c8e3c6fe4b1ec48f
+  - enabled: 1
+    path: Assets/Scene/story scene/8story.unity
+    guid: 12c844f8f73adb44f9c55e2d1c7f1de0
+  - enabled: 1
+    path: Assets/Scene/Yoga/7Yoga.unity
+    guid: 5f994ee120761a74a974017bfa698c66
+  - enabled: 1
+    path: Assets/Scene/Yoga/8Yoga.unity
+    guid: 4f8891dc7ff1f184b96112e8e2d446d1
